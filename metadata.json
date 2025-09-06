@@ -1,0 +1,5 @@
+{
+  "name": "Stampede Control Dashboard",
+  "description": "A real-time dashboard to monitor, predict, and prevent dangerous overcrowding situations at large public events by visualizing live crowd density data and triggering automated alerts.",
+  "requestFramePermissions": []
+}
